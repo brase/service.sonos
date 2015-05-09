@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- SONOS -->
+  <string id="1000">sonos</string>
+  <string id="1020">Sonos Play IP</string>
+  <string id="1021">Switch When Playing</string>
+  <string id="1022">Sets volume</string>
+  <string id="1023">Volume</string>
+</strings>

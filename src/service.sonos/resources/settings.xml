@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<setting id="SONOS_PLAYER_IP" type="ipaddress" label="1020" />
+	<setting id="SWITCH_WHEN_PLAYING" type="bool" label="1021" default="true" />
+	<setting id="SET_VOLUME" type="bool" label="1022" default="true" />
+	<setting label="1023" type="slider" id="SONOS_VOLUME" default="65" range="0,5,100" option="int" />
+</settings>
